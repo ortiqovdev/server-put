@@ -1,0 +1,7 @@
+GET http://localhost:2345/book
+
+###
+POST  http://localhost:2345/book
+
+###
+DELETE http://localhost:2345/book/0
